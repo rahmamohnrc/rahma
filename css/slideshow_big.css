@@ -1,0 +1,95 @@
+#sign-in{
+    
+     
+    
+    
+    
+}
+
+
+#slid {
+  overflow: hidden;
+  height: 355px;
+  width: 675px;
+  margin: 0 auto;
+}
+
+.slid-wrapper {
+  width: 3375px;
+  -webkit-animation: slid 18s ease infinite;
+}
+
+.slid {
+  float: right;
+  height: 355px;
+  width: 675px;
+}
+
+.slid:nth-child(1) {
+}
+
+.slid:nth-child(2) {
+}
+
+.slid:nth-child(3) {
+}
+
+.slid:nth-child(4) {
+}
+
+.slid:nth-child(5) {
+}
+
+.slid-number {
+  color: #000;
+  text-align: center;
+  font-size: 10em;
+}
+
+@-webkit-keyframes slid {
+    10% {margin-right:  0px;}
+    20% {margin-right: -675px;}
+    30% {margin-right: -675px;}
+    40% {margin-right: -1350px;}
+    50% {margin-right: -1350px;}
+    60% {margin-right: -2025px;}
+    70% {margin-right: -2025px;}
+    80% {margin-right: -2700px;}
+    90% {margin-right: -2700px;}
+}
+
+
+.txt_over_img {
+    position: relative;
+    background-color: #fff;
+    
+	
+}
+
+/* Bottom left text */
+/*
+.txt_over_img_position {
+    position: absolute;
+    bottom: 80px;
+    right: 20px;
+	font-size:28px;
+	font-weight:bold;
+	color:#000;
+	font-weight:bolder;
+	
+}
+*/
+
+/*
+.txt_over_img_position_de {
+    position: absolute;
+    bottom: 50px;
+    right: 20px;
+	font-size:26px;
+	color:#000;
+	font-weight:bold;
+}*/
+
+
+
+
